@@ -1,0 +1,50 @@
+
+/*************************************HEADER SELECTOR**************************************/
+body
+{
+    background-color: #8894ad;
+}
+hr 
+{
+    border-color: black;
+    border-top-style: dotted;
+    width:20%;
+    height:1px;
+}
+
+/***************************************CLASS SELECTOR***************************************/
+ /*
+HERE WE ARE USING MULTIPLE IMAGES IN CSS\  .... WE CAN MULTIPLE CLASS AT A TIME
+ AND WANT TO MODIFY ANYONE IMMAGES USING EXTERNAL CSS 
+ SO LIKE 
+ WILL USE 
+
+ <Img class="semi REMI" src="ayush.png"/>
+ <Img class="semy" src="sy.png"/>
+
+
+NOW AT THE TIME OF ACESSING THE FILES
+.semi
+{
+    background-color:white;
+}
+.REMI{
+    FONT;100PX;
+}
+.semy
+{
+    background-color:pink;
+}
+*/
+/********************************************ID SELECTOR******************************/
+/*
+SUPPOSE THERE IS HEADING 
+<H1 ID="BEACON">i lOVE YOU</H1>
+NOW FOR EDITING IT    .......  BUT IN ID WE CANNOT USE MULTIPLE TIMES
+WILL DO 
+#BEACON
+{
+    COLOR:RED;
+}
+*/
+
